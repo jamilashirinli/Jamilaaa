@@ -1,0 +1,87 @@
+
+@media screen and (min-width: 375px) and (max-width: 830px){
+  
+    .body{
+        color: #000;
+        font-family: Roboto;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 150%;
+        width: 308.474px;
+
+
+
+}
+.head{
+    flex-direction: column;
+   
+}
+
+.photo1{
+    margin-top: -70px;
+     width: 170.55px;
+     height: 160.29px;
+    }
+
+   
+    .thead{
+      margin-bottom: 0;
+        width: 211.396px;
+height: 53.863px;
+font-size: 26px;
+
+    }
+  
+    .metn{
+        font-size: 10px;
+       }
+    
+.foot{
+    width: 350px;
+ 
+    margin-bottom: 10%;
+    margin-top: 6%;
+    display: flex;
+
+    flex-wrap: wrap;
+  
+}
+
+.head1{
+    margin-bottom: 35px;
+    margin-left: 0;
+    margin-right: 40px;
+}
+.media1{
+    
+    width: 86px;
+height: 18px;
+}
+.media2{
+  
+    width: 86.892px;
+height: 18.505px;
+}
+.media3{
+    
+    flex-wrap: wrap;
+    width: 76px;
+    height: 18px;
+}
+.litle{
+    display: none;
+}
+.diff{
+   
+    left: 35px;
+}
+.diff2{
+    
+    left: 154.33px;
+}
+.diff3{
+   
+    left: 35px;
+} 
+}

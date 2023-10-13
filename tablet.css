@@ -1,0 +1,80 @@
+@media screen and (min-width: 991px) and (max-width: 1279px){
+    
+    .body{
+        margin-bottom: 4%;
+        width: 87%;
+        color: #000;
+font-family: Roboto;
+font-size: 1.5vw;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+height: 280px;
+    }
+    .diff{
+        left: 488px;
+    }
+    .diff2{
+        left: 733px;
+    }
+    .diff3{
+        left: 976px;
+    }
+.head{
+    margin-top: 5%;
+display: flex;
+}
+
+    .head1{
+        margin-left: 0;
+        margin-right: -20px;
+    }
+    .thead{
+        margin-bottom: 7%;
+        margin-top: 4%;
+        color: #000;
+font-family: Roboto Slab;
+font-size: 2.8vw;
+font-style: normal;
+font-weight: 700;
+
+line-height: 101.385%
+    }
+.photo2{
+    background: #FFF;
+    margin-left: 10%;
+    margin-top: 9%;
+    width: 38%;
+    height: 42vh;
+}
+.metn{
+    color: #000;
+font-family: Roboto;
+font-size: 1.1vw;
+font-style: normal;
+font-weight: 400;
+line-height: 130%;
+width: 55%;
+
+}
+.heading{
+    margin-bottom: 5px;
+    height: auto;
+    color: #000;
+font-family: Roboto;
+font-size: 1.7vw;
+font-style: normal;
+font-weight: 700;
+line-height: 130%;
+}
+.foot{
+    margin-bottom: 10%;
+margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+   .litle{
+   display: none;
+}
+   
+}
